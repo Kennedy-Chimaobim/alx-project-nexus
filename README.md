@@ -153,8 +153,8 @@ src/
 
 1. Clone the repo
 
-git clone https://github.com/yourusername/xinetee-dashboard.git
-cd xinetee-dashboard
+git clone https://github.com/Kennedy-Chimaobim/alx-project-nexus.git
+cd frontend
 
 2. Install dependencies
 
